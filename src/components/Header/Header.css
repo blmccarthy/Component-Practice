@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Mungil-Regular;
+    src: url(./Mungil-Regular.ttf);
+  }
+
+h1 {
+    font-family: "Mungil-Regular";
+    font-size: 60px;
+    text-align: center;
+}

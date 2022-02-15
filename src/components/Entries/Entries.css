@@ -1,0 +1,15 @@
+#entry-fields {
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+#inp-task {
+    width: 320px;
+    padding: 5px;
+    margin: auto;
+    display: inline-block
+}
+
+#btn-submit {
+    margin-left: 10px;
+}
